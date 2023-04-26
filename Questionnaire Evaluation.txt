@@ -1,0 +1,295 @@
+Je voudrais mettre en place un questionnaire d'évaluation en Mathématiques de 20 questions. Ce questionnaire doit permettre de déterminer le niveau du questionné en maths parmi 4 niveaux de compétences possibles. Les 10 premières questions doivent permettre de déterminer son niveau et les 10 dernières doivent permettre de confirmer son niveau.
+
+Voici un modèle pour un questionnaire d'évaluation en mathématiques de 20 questions :
+
+Partie 1 : Détermination du niveau
+
+Q1- Quel est le résultat de 2 + 2 ?
+a. 2
+b. 3
+c. 4
+d. 5
+
+Résolvez l'équation suivante : 2x + 5 = 11
+a. x = 2
+b. x = 3
+c. x = 4
+d. x = 5
+
+Quel est le périmètre d'un rectangle de longueur 4 cm et de largeur 6 cm ?
+a. 8 cm
+b. 16 cm
+c. 20 cm
+d. 24 cm
+
+Calculez la racine carrée de 49.
+a. 5
+b. 6
+c. 7
+d. 8
+
+Simplifiez l'expression suivante : 2x + 3x - 4x
+a. x
+b. 2x
+c. 3x
+d. -3x
+
+Résolvez le système d'équations suivant : x + y = 7, x - y = 1
+a. x = 4, y = 3
+b. x = 3, y = 4
+c. x = 2, y = 5
+d. x = 5, y = 2
+
+Quelle est la surface d'un cercle de rayon 5 cm ?
+a. 25π cm²
+b. 50π cm²
+c. 75π cm²
+d. 100π cm²
+
+Calculez la valeur de x dans l'équation suivante : 3x - 4 = 5x + 6
+a. x = -5
+b. x = -2
+c. x = 2
+d. x = 5
+
+Quel est le pourcentage de 30 par rapport à 50 ?
+a. 30%
+b. 40%
+c. 50%
+d. 60%
+
+Calculez le produit suivant : (x + 3)(x - 2)
+a. x² + x - 6
+b. x² + x + 6
+c. x² - x - 6
+d. x² - x + 6
+
+Partie 2 : Confirmation du niveau
+
+Quelle est la valeur de x dans l'équation suivante : 2x² - 4x - 6 = 0
+a. x = -1, x = 3
+b. x = -3, x = 1
+c. x = 1, x = 3
+d. x = -1, x = -3
+
+Calculez le volume d'un cylindre de rayon 4 cm et de hauteur 8 cm.
+a. 128π cm³
+b. 64π cm³
+c. 32π cm³
+d. 16π cm³
+
+Quelle est l'équation de la droite passant par les points (1, 3) et (4, 8) ?
+a. y = x + 2
+b. y = 2x + 1
+c. y = 2x + 3
+d. y = x + 3
+
+14- Résolvez l'équation suivante pour x : 2x² - 5x + 2 = 0
+a) x = 1/2 ou x = 2
+b) x = 1 ou x = 2
+c) x = 1/2 ou x = 1
+d) x
+
+
+
+Partie 1 - Détermination du niveau
+
+Quelle est la valeur de x dans l'équation 3x + 4 = 10 ?
+a) 2
+b) 3
+c) 4
+d) 5
+
+Simplifiez l'expression suivante : 5x - 2x + 3x - 7
+a) 6x - 7
+b) 5x - 7
+c) 6x - 2
+d) 5x - 2
+
+Quelle est la somme des angles d'un triangle ?
+a) 90 degrés
+b) 180 degrés
+c) 270 degrés
+d) 360 degrés
+
+Résolvez l'équation suivante pour x : 2x + 5 = 11
+a) 2
+b) 3
+c) 4
+d) 5
+
+Calculez la surface d'un rectangle dont la longueur est 5 cm et la largeur est 7 cm.
+a) 12 cm²
+b) 30 cm²
+c) 35 cm²
+d) 42 cm²
+
+Quelle est la racine carrée de 64 ?
+a) 4
+b) 6
+c) 8
+d) 10
+
+Quelle est la pente de la droite passant par les points (2, 5) et (5, 11) ?
+a) 2
+b) 3
+c) 4
+d) 5
+
+Résolvez l'inéquation suivante pour x : 2x + 3 < 9
+a) x < 3
+b) x > 3
+c) x < 6
+d) x > 6
+
+Calculez la valeur de l'expression suivante : 3² - 4 × 2 + 5
+a) 7
+b) 9
+c) 11
+d) 13
+
+Quel est le résultat de l'opération suivante : (3 + 4) × 5 - 2²
+a) 31
+b) 33
+c) 35
+d) 37
+
+Partie 2 - Confirmation du niveau
+
+Résolvez l'équation suivante pour x : x² - 6x + 9 = 0
+a) x = 3
+b) x = 4
+c) x = 5
+d) x = 6
+
+Calculez la valeur de l'expression suivante : log10 1000
+a) 1
+b) 2
+c) 3
+d) 4
+
+Quelle est l'aire d'un cercle dont le rayon est de 6 cm ?
+a) 18π cm²
+b) 36π cm²
+c) 72π cm²
+d) 144π cm²
+
+Résolvez l'équation suivante pour x : 2x² - 5x + 2 = 0
+a) x = 1/2 ou x = 2
+b) x = 1 ou x = 2
+c) x = 1/2 ou x = 1
+d) x
+
+
+
+Partie 1 - Déterminer le niveau de compétence
+
+Q1 - Combien font 2 + 2 ?
+a. 4 b. 3 c. 5 d. 6
+
+Q2 - Quel est le résultat de l'opération suivante : 5 x 8 ?
+a. 13 b. 40 c. 25 d. 45
+
+Q3 - Quelle est l'inconnue dans l'équation suivante : 2x + 5 = 9 ?
+a. x = 2 b. x = 3 c. x = 4 d. x = 5
+
+Quel est le volume d'un cube de 2 cm de côté ?
+a. 2 cm b. 4 cm c. 6 cm d. 8 cm
+
+Quel est le périmètre d'un triangle équilatéral de 6 cm de côté ?
+a. 12 cm b. 18 cm c. 24 cm d. 36 cm
+
+Quelle est la formule pour calculer l'aire d'un cercle ?
+a. A = πr b. A = πr^2 c. A = 2πr d. A = πd^2
+
+Combien font 3/4 + 1/2 ?
+a. 1/8 b. 5/4 c. 7/4 d. 1
+
+Quel est le résultat de l'opération suivante : (8 - 3) x 6 ?
+a. 5 b. 15 c. 25 d. 30
+
+Quel est le discriminant de l'équation suivante : x^2 + 2x + 1 = 0 ?
+a. 0 b. 1 c. 2 d. 4
+
+Quel est le cosinus de l'angle de 60 degrés ?
+a. 0 b. 1/2 c. √3/2 d. 1
+
+Partie 2 - Confirmer le niveau de compétence
+
+Quelle est la dérivée de la fonction f(x) = 3x^2 + 2x + 1 ?
+a. f'(x) = 6x + 2 b. f'(x) = 6x c. f'(x) = 3x + 1 d. f'(x) = 6x + 1
+
+Quelle est la valeur de x dans l'équation suivante : (x + 4)^2 = 64 ?
+a. x = -8 b. x = -4 c. x = 0 d. x = 4
+
+Quelle est la somme des termes de la suite arithmétique suivante : 2, 5, 8, 11, 14, ... ?
+a. 90 b. 95 c. 100 d. 105
+
+Quelle est la valeur de y dans l'équation suivante : 2x + 3y = 12 et x - y = 2 ?
+a. y = 2 b. y = 3 c. y = 4 d. y = 5
+
+Quel est le nombre de diagonales d'un octogone ?
+a. 8 b. 16 c. 20 d. 28
+
+Quel est le résultat
+
+
+Question 17
+
+Quelle est la valeur de x dans l'équation suivante : log2(x) + log2(x + 16) = 4 ?
+a. x = 4 b. x = 8 c. x = 16 d. x = 32
+
+Quel est le résultat de l'intégrale suivante : ∫(2x + 3)dx ?
+a. x^2 + 3x + C b. x^2 + 3x d. x^3/3 + 3x + C d. x^3/3 + 3x
+
+Quelle est la valeur de a dans l'équation suivante : 4^a = 256 ?
+a. a = 4 b. a = 5 c. a = 6 d. a = 8
+
+Quel est le volume d'un cylindre de rayon 3 cm et de hauteur 5 cm ?
+a. 15π cm^3 b. 30π cm^3 c. 45π cm^3 d. 60π cm^3
+
+
+Voici la classification des questions par niveaux de compétences pour le questionnaire :
+
+Niveau débutant :
+Q1. Quel est le résultat de l'addition suivante : 2 + 3 = ?
+Q3. Quel est le périmètre d'un carré de côté 5 cm ?
+Q5. Quelle est la racine carrée de 64 ?
+Q11. Quel est le résultat de la division suivante : 20 ÷ 4 = ?
+
+Niveau intermédiaire :
+Q2. Quel est le résultat de la multiplication suivante : 5 x 4 = ?
+Q4. Quel est le volume d'un cube de côté 3 cm ?
+Q6. Résoudre l'équation suivante : 2x + 5 = 11
+Q7. Quelle est la dérivée de la fonction f(x) = x^2 + 3x + 5 ?
+Q12. Quel est le résultat de la factorisation suivante : (x + 3)(x + 5) ?
+
+Niveau avancé :
+Q8. Résoudre l'équation différentielle suivante : y' + 2y = 4x
+Q9. Quelle est la limite de la fonction f(x) = (x^2 - 3x + 2) / (x - 2) lorsque x tend vers 2 ?
+Q10. Quelle est la valeur de la dérivée seconde de la fonction f(x) = x^3 + 2x^2 + x + 1 ?
+Q13. Quelle est la valeur de la fonction f(x) = 2x^3 - 3x^2 - 12x + 5 pour x = 2 ?
+Q14. Quel est le résultat de l'équation matricielle suivante : AX = B où A = (2 3 ; 4 5), B = (1 ; 6) et X = (x ; y) ?
+Q15. Quelle est la valeur de l'intégrale suivante : ∫(3x^2 + 4x + 5)dx de 0 à 1 ?
+Q16. Quel est le résultat de l'équation suivante : 2^(x+1) = 32 ?
+Q17. Quelle est la valeur de x dans l'équation suivante : log2(x) + log2(x + 16) = 4 ?
+Q18. Quel est le résultat de l'intégrale suivante : ∫(2x + 3)dx ?
+Q19. Quelle est la valeur de a dans l'équation suivante : 4^a = 256 ?
+Q20. Quel est le volume d'un cylindre de rayon 3 cm et de hauteur 5 cm ?
+
+Niveau expert:
+
+Cette classification permet de déterminer plus facilement le niveau de compétence des questionnés en fonction des questions qu'ils ont réussies ou échouées.
+
+
+
+
+
+
+
+
+
+
+
+
+

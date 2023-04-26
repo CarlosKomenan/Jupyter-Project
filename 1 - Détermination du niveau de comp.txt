@@ -1,0 +1,53 @@
+1 - Détermination du niveau de compétences
+
+Q1/Quel est le résultat de l'opération suivante : 5 x 8 ?
+a. 13 
+b*. 40 
+c. 25 
+d. 45
+Q2/ Quelle est l'inconnue dans l'équation suivante : 2x + 5 = 9 ?
+a*. x = 2 
+b. x = 3 
+c. x = 4 
+d. x = 5
+Q3/ Combien font 3/4 + 1/2 ?
+a. 1/8 
+b*. 5/4 
+c. 7/4 
+d. 1
+Q4/ Quel est le résultat de l'opération suivante : (3 + 4) × 5 - 2²
+a*) 31
+b) 33
+c) 35
+d) 37
+Q5/ Quelle est la somme des angles d'un triangle ?
+a) 90 degrés
+b*) 180 degrés
+c) 270 degrés
+d) 360 degrés
+Q6/ Quel est le discriminant de l'équation suivante : x^2 + 2x + 1 = 0 ?
+a*. 0 
+b. 1 
+c. 2 
+d. 4
+Q7/ Quelle est la pente de la droite passant par les points (2, 5) et (5, 11) ?
+a*) 2
+b) 3
+c) 4
+d) 5
+Q8/ On a deux matrices A et B de dimensions n x m et m x p, respectivement. Quelle est la complexité de la multiplication matricielle AB ?
+a*. O(nmp)
+b. O(n^2mp)
+c. O(nmp^2)
+d. O(nm^2p)
+Q9/ Quel est le pourcentage de 30 par rapport à 50 ?
+a. 30%
+b. 40%
+c. 50%
+d*. 60%
+Q10/ Quel est le cosinus de l'angle de 60 degrés ?
+a. 0 
+b*. 1/2 
+c. √3/2 
+d. 1
+
